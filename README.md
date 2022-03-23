@@ -4,3 +4,4 @@ Nama : Dienda Rizkya H.R(672019155)
 - Pertemuan 5 : Data Gathering
 - Pertemuan 6 : Data Understanding - Visualisasi
 - Pertemuan 7 : Data Preparation
+- Pertemuan 8 : Imputasi
