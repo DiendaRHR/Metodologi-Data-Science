@@ -7,3 +7,4 @@ Nama : Dienda Rizkya H.R(672019155)
 - Pertemuan 8 : Imputasi
 - Pertemuan 9 : TTS (. ❛ ᴗ ❛.)
 - Pertemuan 10 : Model Evaluasi - Klasifikasi
+- Pertemuan 11 : Model Evaluasi - Clustering
